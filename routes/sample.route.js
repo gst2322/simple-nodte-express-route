@@ -8,7 +8,7 @@ router.post('/list',  async (req, res) => {
 
 router.get('/', function(req, res){
     console.log("Hello Sai");
-    res.send('helloooo Saiteja, We got update');
+    res.send('helloooo Saiteja, We got update1');
 });
 
 module.exports = router;
